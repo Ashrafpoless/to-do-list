@@ -13,7 +13,7 @@ body{
 .container{
     width: 600px;
     height: auto;
-    margin: 50px 350px;
+    margin: 50px auto;
     background-color: #ffffff;
     color: rgb(2, 9, 15);
     padding: 40px;
